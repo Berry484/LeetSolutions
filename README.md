@@ -11,7 +11,7 @@ The goal here is mostly to keep track of my leetcode journey and have a referenc
 
 # Solution template
 
-```bash
+```
 /*
  * Problem    : <problem_number>
  * Difficulty : <Easy|Medium|Hard>
