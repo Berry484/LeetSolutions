@@ -1,4 +1,4 @@
-# LeetSolutions
+# Leetcode_solutions
 
 This repo has some of my personal LeetCode solutions in **C**.  
 Problems are sorted by difficulty: **Easy**, **Medium**, and **Hard**.  
