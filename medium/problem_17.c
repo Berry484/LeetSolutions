@@ -2,7 +2,7 @@
  * Problem    : 17
  * Difficulty : Medium
  * Language   : C
- * Time       : O(4^n\cdot n), n = length of digits string
+ * Time       : O((4^n) * n), n = length of digits string
  * Space      : O(n)
  */
 
