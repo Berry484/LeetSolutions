@@ -1,4 +1,4 @@
-/*
+/**
  * Problem    : 1
  * Difficulty : Easy
  * Language   : C
@@ -41,7 +41,4 @@ int main() {
     } else {
         printf("No solution found.\n");
     }
-
-    return 0;
 }
-

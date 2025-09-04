@@ -1,4 +1,4 @@
-/*
+/**
  * Problem    : 17
  * Difficulty : Medium
  * Language   : C
